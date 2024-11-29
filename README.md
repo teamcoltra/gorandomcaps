@@ -86,8 +86,8 @@ The project uses custom icons for the system tray. Icons are converted into Go a
 To generate icons:
 1. Place your `.ico` files in the `icon/` directory.
 2. Run the appropriate script:
-   - Windows: `generate.bat`
-   - Linux/macOS: `generate.sh`
+   - Windows: `generate.bat <WINDOWS.ico> <MAC.ico> <LINUX.ico>` (if you only do one image it will apply to all, two images will make mac apply to mac and linux)
+   - Linux/macOS: `generate.sh <WINDOWS.ico> <MAC.ico> <LINUX.ico>` (if you only do one image it will apply to all, two images will make mac apply to mac and linux)
 
 ---
 
