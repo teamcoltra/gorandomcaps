@@ -20,8 +20,8 @@ func main() {
 func onReady() {
 	// Set the icon and tooltip
 	systray.SetIcon(icon.Data) // Use the embedded icon data
-	systray.SetTitle("GoRandomCaps")
-	systray.SetTooltip("Randomly toggles Caps Lock")
+	systray.SetTitle("Alarms")
+	systray.SetTooltip("Manages notification alarms")
 
 	// Add menu options
 	rebootItem := systray.AddMenuItem("Reboot", "Reboot System")

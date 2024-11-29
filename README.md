@@ -63,9 +63,9 @@ GoRandomCaps is a fun and harmless prank application written in Go. It toggles t
 
 ## Usage
 
-1. When the application is started, it will appear in the system tray.
+1. When the application is started, it will appear in the system tray. By default the icon is a clock and says "Alarms" but that's just sneaky stuff. 
 2. Options in the system tray menu:
-   - **Reboot:** Restarts the application.
+   - **Reboot:** Kills the application.
    - **Start on Boot:** Adds the application to startup on your system.
 
 ---
@@ -110,7 +110,7 @@ Feel free to contribute to this project! Report issues, suggest features, or sub
 
 ## Disclaimer
 
-This project is intended for entertainment purposes only. The developer is not responsible for any unintended consequences arising from the use of this application.
+This project is intended for entertainment purposes only. The developer is not responsible for any unintended consequences arising from the use of this application. Also a quick prank is fun, leaving this on someone's computer is just being a dick. 
 
 ---
 
